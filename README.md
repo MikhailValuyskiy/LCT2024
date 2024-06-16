@@ -58,8 +58,9 @@
 [Видео](https://youtu.be/qCj4mewr1jU)
 
 ## APK проекта для скачивания 📚:
-[Ссылка на APK](https://drive.google.com/file/d/1W8OuZ7MY9xU7Xfffo-rj9wZfyZdz1HB2/view?usp=sharing)
-[Ссылка на APK (если вдруг выше на сработает)](https://drive.google.com/file/d/19EmX2VFviQGQp3XyplyF97qczFkhrHbd/view?usp=sharing)
+- [Ссылка на APK](https://drive.google.com/file/d/1W8OuZ7MY9xU7Xfffo-rj9wZfyZdz1HB2/view?usp=sharing)
+
+- [Ссылка на APK (если вдруг выше на сработает)](https://drive.google.com/file/d/19EmX2VFviQGQp3XyplyF97qczFkhrHbd/view?usp=sharing)
 
 
 
