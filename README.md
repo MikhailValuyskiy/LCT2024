@@ -3,7 +3,7 @@
 Задача №25
 
 ## Видео Демонстрация проекта 📌
-[Видео](TODO)
+[Видео](https://youtu.be/qCj4mewr1jU)
 
 ## Презентация проекта 📚:
 [Презентация](https://docs.google.com/presentation/d/1FRT9H5mPspcZYXGgfjj2hiIF1NQcYn9SkaaIKz2Ufb0/edit?usp=sharing)
@@ -22,7 +22,7 @@
 ![Демонстрация проекта](app/src/main/res/drawable/demo.png)
 
 ## APK проекта для скачивания 📚:
-[Ссылка на APK](https://drive.google.com/file/d/1W18HgnnwDHdyNhYKuXTrgqnq4o2s2v7s/view?usp=sharing)
+[Ссылка на APK](https://drive.google.com/file/d/1W8OuZ7MY9xU7Xfffo-rj9wZfyZdz1HB2/view?usp=sharing)
 
 
 ## Архитектура проекта:
@@ -54,10 +54,10 @@
 - ВНИМАНИЕ! Ключ от Яндекс карт находится в gitignore в целях безопасности. Используйте свой ключ или обратитесь к команде
 
 ## Демонстрация проекта 📚:
-[Видео](https://youtu.be/SNk4fzYL37I)
+[Видео](https://youtu.be/qCj4mewr1jU)
 
 ## APK проекта для скачивания 📚:
-[Ссылка на APK](https://drive.google.com/file/d/1W18HgnnwDHdyNhYKuXTrgqnq4o2s2v7s/view?usp=sharing)
+[Ссылка на APK](https://drive.google.com/file/d/1W8OuZ7MY9xU7Xfffo-rj9wZfyZdz1HB2/view?usp=sharing)
 
 
 
