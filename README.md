@@ -21,6 +21,8 @@
 ## Демонстрация проекта 📌:
 ![Демонстрация проекта](app/src/main/res/drawable/demo.png)
 
+![Мониторинг](app/src/main/res/drawable/warning_demo.png)
+
 ## APK проекта для скачивания 📚:
 [Ссылка на APK](https://drive.google.com/file/d/1W8OuZ7MY9xU7Xfffo-rj9wZfyZdz1HB2/view?usp=sharing)
 
