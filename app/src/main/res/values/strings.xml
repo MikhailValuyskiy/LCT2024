@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Моя Камчатка</string>
+
+    <string name="main_title">Интересные\nмаршруты для вас</string>
+    <string name="events_title">Маршруты</string>
+    <string name="parks">Природные парки</string>
+    <string name="popular">Популярные</string>
+    <string name="upcoming">Понравившиеся</string>
+    <string name="my_events">Мои маршруты</string>
+    <string name="near_you">Рядом с вами</string>
+
+    <string name="projects">Заявки</string>
+    <string name="challenge">Туристические маршруты</string>
+    <string name="routes_header">Туристические маршруты</string>
+    <string name="participants">Рейтинг экоактивистов</string>
+    <string name="experts">Истории от экспертов</string>
+
+    <string name="music">Подготовка к походу</string>
+    <string name="dance">Необходимая экипировка</string>
+    <string name="danger">Меры предосторожности</string>
+
+    <string name="form">Регистрация</string>
+
+    <string name="tutorial_3_title">Создай проект</string>
+    <string name="tutorial_3_subtitle">Создай проект</string>
+
+    <string name="tutorial_2_title">Экологический мониторинг</string>
+    <string name="tutorial_2_subtitle">Заметили свалку в лесу? Обеспокоены состоянием водоема? Сообщите в приложении</string>
+
+    <string name="tutorial_1_title">"Туристические маршруты"</string>
+    <string name="tutorial_1_subtitle">"Подробные туристичесике маршруты с офлайн-картами"</string>
+
+    <string name="services">Услуги</string>
+
+    <string name="home">Парки</string>
+    <string name="tutorial_start">Начать</string>
+
+    <string name="more">Ещё…</string>
+    <string name="basket">Новости</string>
+    <string name="map">Мониторинг</string>
+    <string name="tests">Обучение</string>
+    <string name="lessons">Подготовка</string>
+    <string name="profile">Профиль</string>
+    <string name="search">Поиск</string>
+
+    <string name="close">закрыть</string>
+
+
+    <string name="rub_currency">Руб (₽)</string>
+
+    <string-array name="tab_titles">
+        <item>Авторизация</item>
+        <item>Мои заявки</item>
+        <item>Мои маршруты</item>
+    </string-array>
+
+
+    <string-array name="map_tab_titles">
+        <item>Карта</item>
+        <item>Заявки</item>
+    </string-array>
+
+    <string name="placeholder">Личный\nкабинет</string>
+
+
+    <string name="vendor_lk_vk_link">Ссылка на Вконтакте</string>
+    <string name="save_button">Сохранить</string>
+
+
+</resources>

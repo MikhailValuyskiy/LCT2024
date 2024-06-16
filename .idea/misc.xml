@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_puzzle.xml" value="0.12291666666666666" />
+        <entry key="app/src/main/res/layout/fragment_edit_event.xml" value="0.12291666666666666" />
+        <entry key="app/src/main/res/layout/fragment_splash_two.xml" value="0.12291666666666666" />
+        <entry key="app/src/main/res/layout/fragment_stories.xml" value="0.12291666666666666" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.12291666666666666" />
+      </map>
+    </option>
+  </component>
+</project>

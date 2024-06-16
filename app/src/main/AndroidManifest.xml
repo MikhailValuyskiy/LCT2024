@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ru.androidheroes.kamchatka" >
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"  />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+
+    <application
+        android:name="ru.androidheroes.kamchatka.KamchatkaHackatonApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true" >
+        <activity
+            android:name="ru.androidheroes.kamchatka.ui.quiz.ResultActivity"
+            android:exported="false" />
+        <activity
+            android:name="ru.androidheroes.kamchatka.ui.quiz.QuizQuestionsActivity"
+            android:exported="false" />
+        <activity android:name="ru.androidheroes.kamchatka.ui.feed.WebViewActivity" />
+        <activity
+            android:name="ru.androidheroes.kamchatka.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name="ru.androidheroes.kamchatka.puzzle.PuzzleMainActivity"
+            android:exported="false" />
+
+
+        <activity
+            android:name="ru.androidheroes.kamchatka.ui.LoginActivity"
+            android:windowSoftInputMode="adjustPan" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="ru.androidheroes.kamchatka.ui.RegistrationActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

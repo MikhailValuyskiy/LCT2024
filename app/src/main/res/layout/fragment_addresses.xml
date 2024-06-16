@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.map.WarningFragment">
+
+   <androidx.appcompat.widget.Toolbar
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:gravity="center"
+       app:contentInsetLeft="0dp"
+       app:contentInsetStart="0dp"
+       app:elevation="0dp">
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:orientation="vertical">
+
+         <ru.androidheroes.uikit.search.SearchBar
+             android:id="@+id/address_search_toolbar"
+             android:layout_width="match_parent"
+             android:layout_height="@dimen/search_bar_height"
+             android:layout_marginTop="@dimen/material_margin_normal"
+             android:layout_marginBottom="@dimen/material_margin_normal"
+             app:hint="@string/search_hint" />
+
+      </LinearLayout>
+   </androidx.appcompat.widget.Toolbar>
+   <androidx.recyclerview.widget.RecyclerView
+       android:id="@+id/addresses_list"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"/>
+
+</LinearLayout>
