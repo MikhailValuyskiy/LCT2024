@@ -49,7 +49,7 @@
 - KtLint для поддержания Kotlin Code Style. [Подробнее](https://github.com/pinterest/ktlint)
 
 ## Установка:
-- Для установки достаточно скачать zip-архив ИЛИ скачать APK-ниже
+- Для установки достаточно скачать zip-архив ИЛИ скачать APK-ниже [Инструкция](https://journal.tinkoff.ru/apk-android/)
 - Распаковать
 - Открыть с помощью Android Studio 
 - Подключить Android-устройство и нажать кнопку Run
